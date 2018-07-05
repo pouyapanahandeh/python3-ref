@@ -23,11 +23,24 @@ print(honda.age)
 
 # class with function 
 
-class Mazda:
-	def __init__(self, name, age, email):
-		self.name = name 
+class Person: # instead self we can write what ever we want but it has to be first
+	def __init__(self, name, age):
+		self.name = name
 		self.age = age
-		self.email = name+"@company.com"
 
-def user:
-	code
+	def myfunc(self):
+		print("Hello my name is " + self.name)
+
+p1 = Person("pooya", 25)
+p1.myfunc()
+
+print(p1.age)
+
+# thats how we can delete the element
+
+#del p1.age
+#print(p1.age)
+
+# we can remove object like below
+
+#del p1
