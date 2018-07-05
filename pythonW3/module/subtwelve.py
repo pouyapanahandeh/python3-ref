@@ -3,4 +3,9 @@ def greeting(name):
 	
 # Dictionary to use in twelve.py
 	
+dictionary = {
 	
+	"name": "pooya",
+	"age" : 25,
+	"country": "IRAN"
+}
