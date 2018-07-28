@@ -22,4 +22,10 @@ print('read the comment','do not move blindly')
 
 print('High'+str(5)) # the str() is built in function to parse number to string
 
+# if you put number in '' it will compile as string, if you wanna it as a number you need to use a built in function int('8')
 
+print(int('5')+5)
+
+# for float number we have to use float()
+
+print(float('13.5')+5)
