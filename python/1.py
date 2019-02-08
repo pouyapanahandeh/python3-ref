@@ -17,3 +17,20 @@ print(keyword.iskeyword("for"))
 print("pooya".isidentifier())
 print("name".isidentifier())
 print("this".isidentifier())
+
+# variable in python
+
+print("\n -------------------------- \n")
+
+print(keyword.iskeyword("var"))
+
+var = 10
+
+print(var)
+
+print(type(var))
+
+
+var_two = "name should be string"
+
+print(type(var_two))
