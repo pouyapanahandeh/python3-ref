@@ -11,3 +11,14 @@ print(type(birth_year)) # type of birth_year, now you can undrestand why we need
 print(type(age))
 print(age)
 
+# long string 
+
+email = '''Dear pooya,
+
+thanks for your time, after careful consideration we are regret to inform you we can not move forward with your application.
+
+kind regards
+mars
+'''
+
+print(email)
