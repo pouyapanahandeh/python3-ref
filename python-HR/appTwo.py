@@ -21,3 +21,18 @@ message = f'{first_name} [{last_name}] is a beginner programmer.' # f string is 
 
 print(message)
 
+# get the number of element of string
+
+course = 'python is awsome'
+print(len(course))
+
+# change string to upper case 
+
+print(course.upper())
+
+# change letter to lower case 
+
+course_two = "NODEJS PROGRAMMING"
+
+print(course_two.lower())
+
