@@ -36,3 +36,12 @@ course_two = "NODEJS PROGRAMMING"
 
 print(course_two.lower())
 
+# finding specific element in string
+
+str_two = 'we are one of the best group of people'
+print(str_two.find('g'))
+
+# replace two words in string
+
+print(str_two.replace('best', 'fucking best'))
+
