@@ -45,3 +45,15 @@ print(str_two.find('g'))
 
 print(str_two.replace('best', 'fucking best'))
 
+print('one' in str_two) # checking if there the string we mentioned is exist in str_two or not, result will be true or false
+ 	 
+# division and remainder operation in python
+
+print(10 / 3) # result will be float
+print(10 // 3) # result will be integer
+
+# multiplication
+print(10 * 2)	# multiplication of two number
+print(10 ** 2)	# power of number
+
+#
