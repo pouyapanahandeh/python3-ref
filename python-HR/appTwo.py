@@ -56,4 +56,13 @@ print(10 // 3) # result will be integer
 print(10 * 2)	# multiplication of two number
 print(10 ** 2)	# power of number
 
-#
+# assign variable to number and manipulate.
+x = 10 
+# x = x + 4 short way in next line
+x += 4
+print(x)
+
+# first multiplication then addition
+
+z = 10 + 2 ** 2
+print(z)
