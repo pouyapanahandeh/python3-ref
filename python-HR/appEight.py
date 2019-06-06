@@ -35,3 +35,21 @@ for i in number:
 	if i > maxnum:
 		maxnum = number[i]
 print(maxnum)
+
+# 2D list 
+
+matrix = [
+	[1,2,3],
+	[4,5,6],
+	[7,8,9]
+]
+
+print(matrix)
+
+# print specific list in list
+
+print(matrix[0])
+
+# access to element in 2D list
+
+print(matrix[0][2])
