@@ -7,7 +7,7 @@ print(str_one[-1]) # pring the last letter of our string str_one
 
 # print special range of string
 
-print(str_one[0:4]) # reult will be from index 0 till index 4, index 4 is not included
+print(str_one[0:4]) # reult will be from index 0 till index 4, index 4 is not included, only 4 index is included.
 
 print(str_one[0:]) # start from index 0 till end and will print whole string
 
