@@ -53,3 +53,7 @@ print(matrix[0])
 # access to element in 2D list
 
 print(matrix[0][2])
+
+for row in matrix:
+	for column in row:
+		print([column])
